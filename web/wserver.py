@@ -213,7 +213,8 @@ input[type="submit"]:hover, input[type="submit"]:focus{
 </style>
 </head>
 <body>
-  <!--© Designed and coded by @bipuldey19-Telegram-->
+  <!--© Designed and coded by @bipuldey19-
+  -->
     <header>
       <div class="brand">
         <img
@@ -225,8 +226,7 @@ input[type="submit"]:hover, input[type="submit"]:focus{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/anas_tayyar"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/+uCADjnw7zXI3ZTE1"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <div id="sticks">
@@ -617,8 +617,7 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/anasty17/mirror-leech-telegram-bot"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/anas_tayyar"><i class="fab fa-telegram"></i></a>
+        <a href="https://t.me/+uCADjnw7zXI3ZTE1"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
@@ -753,7 +752,7 @@ def set_priority(hash_id):
 
 @app.route('/')
 def homepage():
-    return "<h1>See mirror-leech-telegram-bot <a href='https://www.github.com/anasty17/mirror-leech-telegram-bot'>@GitHub</a> By <a href='https://github.com/anasty17'>Anas</a></h1>"
+    return "<h1>See Jarvis <a href='https://t.me/+uCADjnw7zXI3ZTE1'><i class="fab fa-telegram"></i></a> By Neon Martial</h1>"
 
 @app.errorhandler(NotFound404Error)
 def page_not_found(e):
