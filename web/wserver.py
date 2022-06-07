@@ -752,7 +752,7 @@ def set_priority(hash_id):
 
 @app.route('/')
 def homepage():
-    return "<h1>See Jarvis <a href='https://t.me/+uCADjnw7zXI3ZTE1'><i class="fab fa-telegram"></i></a> By Neon Martial</h1>"
+    return "<h1>See Jarvis <a href='https://t.me/+uCADjnw7zXI3ZTE1'></a> By Neon Martial</h1>"
 
 @app.errorhandler(NotFound404Error)
 def page_not_found(e):
